@@ -21,8 +21,8 @@
 			"LinkCpa1": "https://cpbldi.com/911232e",
 			"LinkCpa2": "https://google.com/",
 
-			"watchNow": true,
-			"Rating": true
+			"watchNow": false,
+			"Rating": false
 
 		}
 
